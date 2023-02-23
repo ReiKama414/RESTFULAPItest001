@@ -1,7 +1,7 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
     app: {
-      baseURL: '/RESTFULAPItest001/',
+      // baseURL: '/RESTFULAPItest001/',
       head: {
         title: 'RESTFULAPI test 001 | Kama',
         charset: 'UTF-8',
